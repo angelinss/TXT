@@ -1,0 +1,6 @@
+Person:
+1. name: Angelina
+2. age: 20
+3. pets: 1
+4. salary: 1000
+
